@@ -3,7 +3,7 @@
 </p>
 
 ## About Me
-I'm an iOS Developer at Top Notch Company, where I bring ideas to life through elegant and efficient code.
+I'm an iOS Developer at Top Notch It Consultant, where I bring ideas to life through elegant and efficient code.
 
 ## Expertise
 
