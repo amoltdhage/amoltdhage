@@ -1,4 +1,6 @@
-![Header](https://github.com/amoltdhage/amoltdhage/blob/main/github-header-image.png)
+<p align="center">
+  <img src="https://github.com/amoltdhage/amoltdhage/blob/main/github-header-image.png" alt="Header" style="width: 800px; height: 300px;" />
+</p>
 
 ## About Me
 I'm an iOS Developer at Top Notch Company, where I bring ideas to life through elegant and efficient code.
