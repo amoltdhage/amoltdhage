@@ -1,6 +1,4 @@
-![Header](./your-header-image-name.png)
-
-# Hey, I'm Amol Dhage! 👋
+![Header](https://github.com/amoltdhage/amoltdhage/blob/main/github-header-image.png)
 
 ## About Me
 I'm an iOS Developer at Top Notch Company, where I bring ideas to life through elegant and efficient code.
