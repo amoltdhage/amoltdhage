@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer GIF"](https://github.com/amoltdhage/amoltdhage/blob/main/github-header-image.png) />
-  
-</p>
+![Header](https://github.com/amoltdhage/amoltdhage/blob/main/github-header-image.png)
 
 ## About Me
 I'm an iOS Developer at Top Notch Company, where I bring ideas to life through elegant and efficient code.
