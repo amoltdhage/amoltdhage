@@ -1,6 +1,6 @@
 <p align="center">
-  <!-- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer GIF" /> -->
-  ![Header](https://github.com/amoltdhage/amoltdhage/blob/main/github-header-image.png)
+  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer GIF"](https://github.com/amoltdhage/amoltdhage/blob/main/github-header-image.png) />
+  
 </p>
 
 ## About Me
