@@ -7,7 +7,8 @@ I'm an iOS Developer at Top Notch It Consultant, where I bring ideas to life thr
 
 ## Expertise
 
-* Swift * Objective-C
+* Swift 
+* Objective-C
 * UIKit
 * Core Data
 * REST APIs
