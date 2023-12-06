@@ -7,8 +7,7 @@ I'm an iOS Developer at Top Notch It Consultant, where I bring ideas to life thr
 
 ## Expertise
 
-* Swift
-* Objective-C
+* Swift * Objective-C
 * UIKit
 * Core Data
 * REST APIs
@@ -31,16 +30,15 @@ I'm an iOS Developer at Top Notch It Consultant, where I bring ideas to life thr
 ![React Native](https://img.shields.io/badge/React%20Native-29ABCA?style=flat&logo=react-native&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-EC4D33?style=flat&logo=git&logoColor=white)
 ![CocoaPods](https://img.shields.io/badge/CocoaPods-5FBC66?style=flat&logo=cocoapods&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-0A665C?style=flat&logo=codepen&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E51?style=flat&logo=figma&logoColor=white)
-![Problem-solving](https://img.shields.io/badge/Problem-solving-99CCFF?style=flat&logo=problem-solving&logoColor=white)
-![Communication](https://img.shields.io/badge/Communication-DF0030?style=flat&logo=communication&logoColor=white)
-![Teamwork](https://img.shields.io/badge/Teamwork-5FD055?style=flat&logo=teamwork&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-2C29A2?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-E95959?style=flat&logo=gitlab&logoColor=white)
 ![Microsoft Power Apps](https://img.shields.io/badge/Microsoft%20Power%20Apps-1f60d8?style=flat&logo=microsoft-power-apps&logoColor=white)
+![Teamwork](https://img.shields.io/badge/Teamwork-5FD055?style=flat&logo=teamwork&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-DF0030?style=flat&logo=communication&logoColor=white)
+![Problem-solving](https://img.shields.io/badge/Problem-solving-99CCFF?style=flat&logo=problem-solving&logoColor=white)
 
 
 <!-- ## Developer GIF -->
