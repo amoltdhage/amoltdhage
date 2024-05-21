@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/amoltdhage/amoltdhage/blob/main/github-header-image.png" alt="Header" style="width: 800px; height: 300px;" />
+<!--   <img src="https://github.com/amoltdhage/amoltdhage/blob/main/github-header-image.png" alt="Header" style="width: 800px; height: 300px;" /> -->
 </p>
 
 ## About Me
