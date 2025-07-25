@@ -42,7 +42,7 @@ I am an iOS Developer at SVAAPTA IT-ALLY SOLUTIONS PVT.LTD, where I bring ideas 
 ![Problem-solving](https://img.shields.io/badge/Problem-solving-99CCFF?style=flat&logo=problem-solving&logoColor=white)
 
 
-## 📱 Projects
+## 📱 Projects & Published Apps
 
 ### [Yoodoo](https://apps.apple.com/in/app/yoodoo-adhd-daily-planner/id16443200946)
 > **Habit and productivity tracker**  
