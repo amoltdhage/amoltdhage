@@ -58,7 +58,7 @@ I am an iOS Developer at SVAAPTA IT-ALLY SOLUTIONS PVT.LTD, where I bring ideas 
 
 ---
 
-### [Cloud Racing - Race Tracker App - React Native (https://github.com/amoltdhage](https://apps.apple.com/in/app/cloudracing/id6477375906)
+### [Cloud Racing - Race Tracker App - React Native](https://apps.apple.com/in/app/cloudracing/id6477375906)
 > **Real-time race progress tracker with map and direction features**  
 Race timing & scoring across land, air, and water
 Cloud Racing is a unique cross-platform app that enables automated race timing along a predefined route. It calculates elapsed time, applies penalties for missed waypoints, and provides accurate scoring — all without requiring marshals, telemetry hardware, or internet/cellular coverage during the race.
