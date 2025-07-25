@@ -42,6 +42,43 @@ I'm an iOS Developer at SVAAPTA IT-ALLY SOLUTIONS PVT.LTD, where I bring ideas t
 ![Problem-solving](https://img.shields.io/badge/Problem-solving-99CCFF?style=flat&logo=problem-solving&logoColor=white)
 
 
+## 📱 Projects
+
+### [iStaffRota](https://apps.apple.com/us/app/istaffrota/id6468014550)
+> **Shift scheduling and staff management system**  
+> Built with **Swift** and **SwiftUI**, integrated **Firebase** backend.  
+> Features: Google Calendar sync, automated invoicing, real-time shift management, and payroll export.
+
+---
+
+### [Yoodoo](https://apps.apple.com/us/app/yoodoo-habit-tracker/id6446843286)
+> **Habit and productivity tracker**  
+> Created using **Core Data** and **StoreKit** for in-app purchases.  
+> Features: calendar sync, personalized reminders, and clean UI/UX.
+
+---
+
+### [Montrose Recreation App](https://apps.apple.com/us/app/montrose-recreation-app/id1472673781)
+> **Recreation center and park info app**  
+> Developed in **Objective-C** with offline support.  
+> Features: push notifications, schedule viewing, and issue reporting.
+
+---
+
+### [Document Scanner App](https://apps.apple.com/app/id0000000000) <!-- Replace with actual app ID if live -->
+> **OCR-based PDF scanning tool**  
+> Built using **PDFKit** and **Core Image**.  
+> Features: filters, OTP login, and social authentication support.
+
+---
+
+### [Race Tracker App - React Native (Coming Soon)](https://github.com/amoltdhage)
+> **Real-time race progress tracker with map and direction features**  
+> Developed in **React Native** using **react-native-maps**, **compass animation**, and **geolocation APIs**.
+
+---
+
+
 <!-- ## Developer GIF -->
 <!-- ![Developer GIF](https://i.imgur.com/YOUR_DEVELOPER_GIF.gif) -->
 
