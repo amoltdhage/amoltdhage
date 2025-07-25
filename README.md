@@ -3,7 +3,7 @@
 </p>
 
 ## About Me
-I'm an iOS Developer at SVAAPTA IT-ALLY SOLUTIONS PVT.LTD, where I bring ideas to life through elegant and efficient code.
+I am an iOS Developer at SVAAPTA IT-ALLY SOLUTIONS PVT.LTD, where I bring ideas to life through elegant and efficient code.
 
 ## Expertise
 
