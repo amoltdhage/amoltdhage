@@ -44,13 +44,6 @@ I'm an iOS Developer at SVAAPTA IT-ALLY SOLUTIONS PVT.LTD, where I bring ideas t
 
 ## 📱 Projects
 
-### [iStaffRota](https://apps.apple.com/gb/app/istaffrota/id1458077644)
-> **Shift scheduling and staff management system**  
-> Built with **Swift** and **SwiftUI**, integrated **Firebase** backend.  
-> Features: Google Calendar sync, automated invoicing, real-time shift management, and payroll export.
-
----
-
 ### [Yoodoo](https://apps.apple.com/in/app/yoodoo-adhd-daily-planner/id16443200946)
 > **Habit and productivity tracker**  
 > Created using **Core Data** and **StoreKit** for in-app purchases.  
@@ -58,17 +51,10 @@ I'm an iOS Developer at SVAAPTA IT-ALLY SOLUTIONS PVT.LTD, where I bring ideas t
 
 ---
 
-### [Montrose Recreation App](https://apps.apple.com/us/app/montrose-recreation-app/id1472673781)
-> **Recreation center and park info app**  
-> Developed in **Objective-C** with offline support.  
-> Features: push notifications, schedule viewing, and issue reporting.
-
----
-
-### [Document Scanner App](https://apps.apple.com/app/id0000000000) <!-- Replace with actual app ID if live -->
-> **OCR-based PDF scanning tool**  
-> Built using **PDFKit** and **Core Image**.  
-> Features: filters, OTP login, and social authentication support.
+### [iStaffRota](https://apps.apple.com/gb/app/istaffrota/id1458077644)
+> **Shift scheduling and staff management system**  
+> Built with **Swift** and **SwiftUI**, integrated **Firebase** backend.  
+> Features: Google Calendar sync, automated invoicing, real-time shift management, and payroll export.
 
 ---
 
@@ -84,6 +70,20 @@ Built in React Native using react-native-maps, geolocation, and custom compass a
    * Works offline once race is loaded
    * Supports any racing discipline — sky, water, or land
  > Developed in **React Native** using **react-native-maps**, **compass animation**, and **geolocation APIs**.
+
+---
+
+### [Montrose Recreation App](https://apps.apple.com/us/app/montrose-recreation-app/id1472673781)
+> **Recreation center and park info app**  
+> Developed in **Objective-C** with offline support.  
+> Features: push notifications, schedule viewing, and issue reporting.
+
+---
+
+### [Document Scanner App](https://apps.apple.com/app/id0000000000) <!-- Replace with actual app ID if live -->
+> **OCR-based PDF scanning tool**  
+> Built using **PDFKit** and **Core Image**.  
+> Features: filters, OTP login, and social authentication support.
 
 ---
 
