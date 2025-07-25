@@ -53,7 +53,7 @@ I am an iOS Developer at SVAAPTA IT-ALLY SOLUTIONS PVT.LTD, where I bring ideas 
 
 ### [iStaffRota](https://apps.apple.com/gb/app/istaffrota/id1458077644)
 > **Shift scheduling and staff management system**  
-> Built with **Swift** and **SwiftUI**, integrated **Firebase** backend.  
+> Built with **Objectiv C** , integrated **Firebase** backend.  
 > Features: Google Calendar sync, automated invoicing, real-time shift management, and payroll export.
 
 ---
