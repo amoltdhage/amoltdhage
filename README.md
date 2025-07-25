@@ -44,14 +44,14 @@ I'm an iOS Developer at SVAAPTA IT-ALLY SOLUTIONS PVT.LTD, where I bring ideas t
 
 ## 📱 Projects
 
-### [iStaffRota](https://apps.apple.com/us/app/istaffrota/id6468014550)
+### [iStaffRota](https://apps.apple.com/gb/app/istaffrota/id1458077644)
 > **Shift scheduling and staff management system**  
 > Built with **Swift** and **SwiftUI**, integrated **Firebase** backend.  
 > Features: Google Calendar sync, automated invoicing, real-time shift management, and payroll export.
 
 ---
 
-### [Yoodoo](https://apps.apple.com/us/app/yoodoo-habit-tracker/id6446843286)
+### [Yoodoo](https://apps.apple.com/in/app/yoodoo-adhd-daily-planner/id16443200946)
 > **Habit and productivity tracker**  
 > Created using **Core Data** and **StoreKit** for in-app purchases.  
 > Features: calendar sync, personalized reminders, and clean UI/UX.
@@ -72,9 +72,18 @@ I'm an iOS Developer at SVAAPTA IT-ALLY SOLUTIONS PVT.LTD, where I bring ideas t
 
 ---
 
-### [Race Tracker App - React Native (Coming Soon)](https://github.com/amoltdhage)
+### [Cloud Racing - Race Tracker App - React Native (https://github.com/amoltdhage](https://apps.apple.com/in/app/cloudracing/id6477375906)
 > **Real-time race progress tracker with map and direction features**  
-> Developed in **React Native** using **react-native-maps**, **compass animation**, and **geolocation APIs**.
+Race timing & scoring across land, air, and water
+Cloud Racing is a unique cross-platform app that enables automated race timing along a predefined route. It calculates elapsed time, applies penalties for missed waypoints, and provides accurate scoring — all without requiring marshals, telemetry hardware, or internet/cellular coverage during the race.
+Built in React Native using react-native-maps, geolocation, and custom compass and waypoint systems.
+
+⚙️ Features:
+   * Race creation with custom criteria and route definitions
+   * Automatic scoring with time penalties
+   * Works offline once race is loaded
+   * Supports any racing discipline — sky, water, or land
+ > Developed in **React Native** using **react-native-maps**, **compass animation**, and **geolocation APIs**.
 
 ---
 
