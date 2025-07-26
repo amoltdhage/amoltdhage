@@ -72,10 +72,10 @@ Built in React Native using react-native-maps, geolocation, and custom compass a
 
 ---
 
-### [Montrose Recreation App](https://apps.apple.com/us/app/montrose-recreation-app/id1472673781)
+<!--### [Montrose Recreation App](https://apps.apple.com/us/app/montrose-recreation-app/id1472673781)
 > **Recreation center and park info app**  
 > Developed in **Objective-C** with offline support.  
-> Features: push notifications, schedule viewing, and issue reporting.
+> Features: push notifications, schedule viewing, and issue reporting. -->
 
 ---
 
@@ -104,7 +104,7 @@ Built in React Native using react-native-maps, geolocation, and custom compass a
 
 - [LinkedIn](https://www.linkedin.com/in/amoltdhage/)
 - [Twitter](https://twitter.com/amoltdhage)
-- [Website/Portfolio](https://www.yourportfolio.com)
+<!--- [Website/Portfolio](https://www.yourportfolio.com) -->
 
 ## ☕ Fun Fact
 
