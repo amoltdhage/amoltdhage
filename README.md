@@ -5,22 +5,13 @@
 ## About Me
 I am an iOS Developer at SVAAPTA IT-ALLY SOLUTIONS PVT.LTD, where I bring ideas to life through elegant and efficient code.
 
-## Expertise
-
-* Swift 
-* Objective-C
-* UIKit
-* Core Data
-* REST APIs
-* Git
-* Xcode
-* Visual Studio Code
-* YouTube
-* Content Creator
-
 ## 🌱 Currently Learning
 
 - I'm currently diving into the world of **React Native** to broaden my skill set and explore cross-platform development.
+
+## Expertise
+
+• Swift   • Objective-C   • UIKit   • Core Data   • REST APIs   • Git   • Xcode   • Visual Studio Code   • YouTube   • Content Creator
 
 ## 💻 Technologies & Tools
 
