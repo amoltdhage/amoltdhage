@@ -51,11 +51,10 @@ I am an iOS Developer at SVAAPTA IT-ALLY SOLUTIONS PVT.LTD, where I bring ideas 
 
 ---
 
-### [iStaffRota](https://apps.apple.com/gb/app/istaffrota/id1458077644)
-> **Shift scheduling and staff management system**  
-> Developed shift assignment, calendar sync, speech-to-text notes, and real-time chat using sockets
-> Continuously improved based on client feedback to support agency-level staff and customer management
-> Features: Calendar sync, real-time shift management
+### [MAXPLAY](https://apps.apple.com/us/app/maxplay-app/id1587865804)
+> **Subscription Video & Live TV Streaming App for the MENA Region**  
+> Developed using **Swift**, **AVFoundation**, and a custom Video Streaming SDK.  
+> Features: multi-language UI (Arabic/English), adaptive bitrate streaming, offline playback, secure payments, and support for Chromecast & Smart TVs.
 
 ---
 
@@ -71,6 +70,14 @@ Built in React Native using react-native-maps, geolocation, and custom compass a
    * Works offline once race is loaded
    * Supports any racing discipline — sky, water, or land
  > Developed in **React Native** using **react-native-maps**, **compass animation**, and **geolocation APIs**.
+
+---
+
+### [iStaffRota](https://apps.apple.com/gb/app/istaffrota/id1458077644)
+> **Shift scheduling and staff management system**  
+> Developed shift assignment, calendar sync, speech-to-text notes, and real-time chat using sockets
+> Continuously improved based on client feedback to support agency-level staff and customer management
+> Features: Calendar sync, real-time shift management
 
 ---
 
