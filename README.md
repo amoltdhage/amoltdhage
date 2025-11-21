@@ -12,7 +12,8 @@ I am an iOS and React Native Developer at SVAAPTA IT-ALLY SOLUTIONS PVT.LTD, whe
 ## Expertise
 
 • Swift  • Objective-C  • UIKit  • Core Data  • REST APIs • React Native (Maps, Navigation, Permissions, Custom Components)
-• Flutter (UI Widgets, State Management, Cross-Platform Development) • Git  • Xcode  • Visual Studio Code  • YouTube   • Content Creator
+• Flutter (UI Widgets, State Management, Cross-Platform Development)  • Git   • Xcode   • Visual Studio Code  • YouTube   
+• Content Creator
 
 ## 💻 Technologies & Tools
 
